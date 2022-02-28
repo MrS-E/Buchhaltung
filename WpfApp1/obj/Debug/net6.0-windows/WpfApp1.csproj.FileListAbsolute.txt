@@ -1,0 +1,46 @@
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\simeo\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\KontoNeu.g.cs
+C:\Users\Simeon Stix\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\KontoNeu.baml
