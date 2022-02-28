@@ -1,0 +1,74 @@
+﻿<Window x:Class="WpfApp1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Neuer Buchungssatz" 
+        MinHeight="240" 
+        MinWidth="300" 
+        SizeToContent="WidthAndHeight" 
+        ResizeMode="NoResize" 
+        ShowInTaskbar="False" 
+        WindowStartupLocation="CenterOwner" 
+        FocusManager.FocusedElement="{Binding ElementName=leftMarginTextBox}">
+    <Grid Margin="10">
+        <Grid.Resources>
+            <!-- Default settings for controls -->
+            <Style TargetType="{x:Type Label}">
+                <Setter Property="Margin" Value="0,3,5,5" />
+                <Setter Property="Padding" Value="0,0,0,5" />
+            </Style>
+            <Style TargetType="{x:Type TextBox}">
+                <Setter Property="Margin" Value="0,0,0,5" />
+            </Style>
+            <Style TargetType="{x:Type Button}">
+                <Setter Property="Width" Value="70" />
+                <Setter Property="Height" Value="25" />
+                <Setter Property="Margin" Value="5,0,0,0" />
+            </Style>
+        </Grid.Resources>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="43*" />
+            <ColumnDefinition Width="51*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <!-- Left,Top,Right,Bottom margins-->
+        <Label Grid.Column="0" Grid.Row="0" Margin="0,3,5,5">Datum</Label>
+        <DatePicker Name="Datum" HorizontalAlignment="Center" Margin="101,0,0,5" VerticalAlignment="Center" Grid.Row="0" Grid.ColumnSpan="3" Width="188" Height="23.95"/>
+
+        <Label Grid.Column="0" Grid.Row="1" Margin="0,3,5,5">Buchungsnummer</Label>
+        <TextBox Name="Buchung" Grid.Row="1" Grid.ColumnSpan="3" Margin="101,0,0,5" />
+
+        <Label Grid.Column="0" Grid.Row="2" Margin="0,3,5,5">Soll</Label>
+        <ComboBox Name="Soll" HorizontalAlignment="Left" Margin="101,2,0,5" Grid.Row="2" Width="188" Grid.ColumnSpan="3"/>
+
+        <Label Grid.Column="0" Grid.Row="3" Margin="0,3,5,5">Haben</Label>
+        <ComboBox Name="Haben" HorizontalAlignment="Left" Margin="101,2,0,5" Grid.Row="3" Width="188" Grid.ColumnSpan="3"/>
+
+        <Label Grid.Column="0" Grid.Row="4" Margin="0,3,5,5">Beschreibung</Label>
+        <TextBox Name="Beschreibung" Grid.Row="4" Grid.ColumnSpan="3" Margin="101,0,0,5" />
+
+        <Label Grid.Column="0" Grid.Row="5" Margin="0,3,5,5">Betrag</Label>
+        <TextBox Name="Betrag" PreviewTextInput="NumberValidationTextBox" Grid.Row="5" Grid.ColumnSpan="3" Margin="101,0,0,5" />
+
+        <!-- Accept or Cancel -->
+        <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="6" Orientation="Horizontal" HorizontalAlignment="Left" Margin="38,0,0,0">
+            <Button Name="okButton" Click="okButton_Click" IsDefault="True">OK</Button>
+            <Button Name="cancelButton" IsCancel="True" Click="cancelButton_Click">Cancel</Button>
+        </StackPanel>
+    </Grid >
+</Window>
